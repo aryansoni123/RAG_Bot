@@ -23,7 +23,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-API_key = "AIzaSyBz1c99bSI4EBEh9-Th_JOLm2xM_y8OzUw"
+API_key = ""
 COHERE_API_KEY = ""
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
